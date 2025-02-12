@@ -30,7 +30,7 @@ Follow these steps to set up and run Delicious Recommender on your local machine
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/delicious-recommender.git
+git clone https://github.com/FionaHU1226/delicious-recommender.git
 cd delicious-recommender
 ```
 
@@ -41,7 +41,7 @@ Contributions are welcome! Follow these steps to contribute to Delicious Recomme
 1. Fork the Repository: Click the "Fork" button at the top-right corner of the repository page.
 2. Clone Your Fork:
    ```bash
-   git clone https://github.com/yourusername/delicious-recommender.git
+   git clone https://github.com/FionaHU1226/delicious-recommender.git
    cd delicious-recommender
    ```
 3. Create a New Branch
